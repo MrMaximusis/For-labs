@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gA6ySSv1qDgu+UWGAD1jci7kqDLTUD6x7uJYW7zFs7Mfx00+0XRDu5so8LDtpnVDQylLDQ7UkbvI281TYAemmw==",
+  "dgSpecHash": "OmYb4tf0SKgyQodtwfjhykwA85jXZBTdWtToLLo8PdXoi78pLuFz1n1gUdjy1bzB+68pP5l3iLkMWzFyeuqFZA==",
   "success": true,
-  "projectFilePath": "E:\\Проекты\\Для Моих Граней\\hello_world\\hello_world.csproj",
+  "projectFilePath": "E:\\Repos\\hello_world\\hello_world.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
